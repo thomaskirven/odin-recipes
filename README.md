@@ -1,2 +1,2 @@
 # odin-recipes
- This is a project from The Odin Project 'Foundations Course'.
+ This is [Recipes project](https://www.theodinproject.com/lessons/foundations-recipes) from The Odin Project 'Foundations Course'.
